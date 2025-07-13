@@ -1,6 +1,6 @@
 ## Hi, I'm Uday ​✨​
 🎓 I'm a 2025 Graduate with Computer Science & Engineering at GLA University, Mathura.<br/>
-👨‍💻 Tech enthusiast passionate about building scalable full-stack applications.<br/>
+👨‍💻 Tech enthusiast passionate about building scalable, userfriendly applications.<br/>
 💡 I enjoy solving DSA challenges and crafting smooth user experiences with modern frontend tools.<br/>
 🧠 Constantly learning and exploring new technologies in backend, APIs, and cloud deployment.<br/>
 🧪 Currently exploring automation, Docker, and modern deployment workflows using platforms like Vercel, GitHub Pages, and Render.<br/>
